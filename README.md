@@ -6,6 +6,7 @@ SmartCanteen+ คือเว็บแอปโรงอาหารโรงเ
 
 - [Vercel](https://smartcanteen-plus.vercel.app)
 - [GitHub Pages](https://pulawatchapibansri.github.io/SmartCanteen-Plus-Demo/)
+- [อ่าน Portfolio Case Study ฉบับเต็ม](docs/PORTFOLIO.md)
 
 ## บัญชีเดโม
 
